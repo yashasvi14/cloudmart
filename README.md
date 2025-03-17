@@ -47,3 +47,7 @@ CloudMart is a **MultiCloud AI-driven architecture** integrating **AWS, Google C
 - **Amazon Bedrock + OpenAI** for AI-driven chatbot automation
 
 ---
+
+## 🎯 Acknowledgments
+
+This project was built as part of The Cloud Bootcamp, an intensive learning experience that pushed me to integrate MultiCloud, DevOps, and AI into a real-world solution.
